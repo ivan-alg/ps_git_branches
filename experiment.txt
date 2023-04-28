@@ -1,2 +1,7 @@
 Difficult problem in this file
 Here is the starting point
+
+Second attempt
+step A
+step B
+step C
