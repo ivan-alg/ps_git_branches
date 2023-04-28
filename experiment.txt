@@ -1,2 +1,9 @@
 Difficult problem in this file
 Here is the starting point
+
+First attempt
+step 1
+step 2
+step 3
+step 4
+didn't work. Going to try something else.
